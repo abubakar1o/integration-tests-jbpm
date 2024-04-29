@@ -5,7 +5,7 @@
   <groupId>org.test</groupId>
   <artifactId>kjar</artifactId>
   <version>1.0</version>
-  <name>Tests</name>
+  <name>BPM-Process</name>
   <description>This project is used for the REST, JMS and WS API integration tests</description>
   <repositories>
     <repository>
